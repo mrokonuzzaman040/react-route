@@ -1,0 +1,12 @@
+import React from 'react';
+
+const About = () => {
+    return (
+        <div>
+            <h2>About us</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum nostrum at in assumenda itaque, ex illum dignissimos voluptate totam, velit, molestiae sit ab! Modi, distinctio inventore nisi similique magnam obcaecati doloribus nulla commodi recusandae adipisci numquam, placeat rem! Atque est quia ipsum magni laborum. Voluptatum quidem quos expedita animi, inventore sequi omnis vel nulla nostrum cum nobis sunt quae cumque fugit, minus laborum hic adipisci? Pariatur unde hic deserunt non rerum tenetur labore libero, debitis illum, veritatis maiores voluptatum quaerat alias vero! Odit, voluptas quaerat! Atque esse expedita doloremque fugiat libero ullam, in ut sequi distinctio vero quae necessitatibus quasi! Repellat asperiores doloremque quis est, libero blanditiis obcaecati culpa sed explicabo totam? Tempore temporibus tempora quod culpa voluptate explicabo iste rerum commodi qui praesentium aut nesciunt consectetur rem totam beatae minus, eius quos cumque laborum veniam. Repellendus suscipit quaerat distinctio facere, ad quod nemo accusantium possimus ullam dolore sed ea. Nihil, atque! Aspernatur nam eum doloremque dolor necessitatibus excepturi provident mollitia commodi nulla autem quibusdam dolore iste fugit reprehenderit dolorum, est cumque animi facilis esse, illo aperiam non? Iure et tempore, commodi, sapiente tenetur quod incidunt officia vel, deleniti mollitia veniam repellat culpa natus maiores asperiores atque illum eaque cumque! Distinctio voluptates explicabo esse animi eum corrupti quidem est doloremque illum asperiores autem fugit ipsum dolorum quae, minima aut cum similique sapiente ex unde expedita? Iste tempora dolor molestiae modi, laboriosam sequi esse, perferendis, aliquid tempore ipsa at. Exercitationem in, tenetur id dignissimos veniam repellat mollitia nesciunt. Perferendis nobis ut, suscipit aperiam, molestias magni animi sapiente eligendi fuga minus debitis maiores repellat quae totam ea vel porro pariatur doloremque adipisci nihil itaque veniam dolore! Impedit iure cum recusandae voluptates aperiam vitae corrupti beatae quam? Quia tempora incidunt accusamus adipisci consequatur laudantium fugit laborum cumque, quae esse iusto, autem nesciunt saepe!</p>
+        </div>
+    );
+};
+
+export default About;

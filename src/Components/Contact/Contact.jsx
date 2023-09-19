@@ -1,0 +1,12 @@
+import React from 'react';
+
+const Contact = () => {
+    return (
+        <div>
+            <h2>Concat Us</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas incidunt velit architecto, ipsum exercitationem maxime laboriosam nam impedit magni odit qui. Quibusdam delectus, porro aut tempore nobis rem ab at quidem assumenda laborum sed corrupti quod! Voluptatem laudantium ullam expedita sed ut minus quia debitis excepturi cumque dignissimos enim doloribus voluptatibus ea architecto facilis similique esse dolorum delectus non, autem sunt, quibusdam, eaque dolorem. Vero totam facilis iusto dignissimos, ipsum minus aut placeat eveniet quidem, voluptas vel blanditiis alias quam consequatur provident suscipit itaque? A reprehenderit laborum delectus, optio nihil sed cupiditate, ut nobis blanditiis autem nesciunt amet earum alias placeat eos non, corporis dolore molestiae praesentium nisi recusandae voluptates? Saepe officia dicta atque rem facere nostrum? Hic velit, unde provident natus officia nemo neque nihil eaque vel rerum excepturi consequuntur tempore, consequatur, maxime atque! Dolor adipisci cupiditate delectus ipsa! Asperiores dolorem quidem beatae nesciunt illo sunt et saepe vero velit est, nam fugit cupiditate quasi quia ducimus ad voluptatibus dolor illum eaque? Enim facilis rem asperiores, est nemo voluptatibus eligendi ducimus facere mollitia quidem, tenetur soluta aperiam! Consequatur dolores exercitationem quidem vero dignissimos. Nihil, quam. Eos deleniti iusto et ea amet voluptate repudiandae accusamus sapiente consequatur animi? Delectus amet, autem, eligendi quod nam quibusdam, iure repellat dolorum inventore ratione doloribus dolor eum! Quas aut, nobis explicabo voluptatem harum rerum? Illum velit reprehenderit corrupti repellat accusamus dolores sequi veritatis blanditiis. Error, saepe deserunt fuga doloribus doloremque soluta repudiandae praesentium tempore recusandae laudantium sapiente quos aliquam ex porro non beatae ad impedit illo iure ipsum sequi, atque consequuntur, suscipit quas! Quam, cumque ad perspiciatis numquam ipsum quis asperiores, laboriosam debitis sit impedit voluptatem tempore! Eaque dolor exercitationem minus laudantium eveniet aliquid voluptates at nostrum excepturi aliquam veniam ipsa deleniti ut ipsam tempora reiciendis earum nihil culpa, quibusdam in assumenda harum natus.</p>
+        </div>
+    );
+};
+
+export default Contact;
