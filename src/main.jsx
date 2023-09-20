@@ -13,7 +13,6 @@ import Users from './Components/Users/Users';
 import UserDetals from './Components/UserDetals/UserDetals';
 import Posts from './Components/Posts/Posts';
 import ReadMore from './Components/ReadMore/ReadMore';
-import Error from './Components/ErrorPage/ErrorPage';
 import ErrorPage from './Components/ErrorPage/ErrorPage';
 
 const router = createBrowserRouter([
