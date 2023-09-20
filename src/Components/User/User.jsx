@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const User = ({ user }) => {
     const {id, name, email, phone} = user;
     return (
@@ -5,6 +7,7 @@ const User = ({ user }) => {
             <h2 className="text-2xl">{name} <span>{id}</span></h2>
             <p>Email: {email}</p>
             <p>Phone:{phone}</p>
+            <Link className="" to={`/user/${user.id}`}>Show all</Link>
         </div>
     );
 };
